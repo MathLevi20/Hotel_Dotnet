@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = hotel
+build_property.RootNamespace = hotel
+build_property.ProjectDir = /home/levi/dotnet/hotel/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/levi/dotnet/hotel
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/levi/dotnet/hotel/Views/Fisica/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlzaWNhL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Fisica/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlzaWNhL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Fisica/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlzaWNhL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Fisica/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlzaWNhL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Fisica/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlzaWNhL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Juridica/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSnVyaWRpY2EvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Juridica/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSnVyaWRpY2EvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Juridica/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSnVyaWRpY2EvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Juridica/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSnVyaWRpY2EvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Juridica/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSnVyaWRpY2EvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Parceiro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyY2Vpcm8vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Parceiro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyY2Vpcm8vRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Parceiro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyY2Vpcm8vRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Parceiro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyY2Vpcm8vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Parceiro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyY2Vpcm8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/ReservaHotel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YUhvdGVsL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/ReservaHotel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YUhvdGVsL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/ReservaHotel/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YUhvdGVsL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/ReservaHotel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YUhvdGVsL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/ReservaHotel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YUhvdGVsL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7zz77c56jk
