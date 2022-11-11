@@ -16303,6 +16303,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/levi/dotnet/hotel/Views/Pessoa/Edit.cshtml",
+      "TargetPath": "Views\\Pessoa\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/levi/dotnet/hotel/Views/Fisica/Create.cshtml",
       "TargetPath": "Views\\Fisica\\Create.cshtml",
       "FileKind": "mvc"
@@ -16320,6 +16325,11 @@
     {
       "FilePath": "/home/levi/dotnet/hotel/Views/Juridica/Edit.cshtml",
       "TargetPath": "Views\\Juridica\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/levi/dotnet/hotel/Views/Pessoa/Details.cshtml",
+      "TargetPath": "Views\\Pessoa\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16345,6 +16355,11 @@
     {
       "FilePath": "/home/levi/dotnet/hotel/Views/Fisica/Index.cshtml",
       "TargetPath": "Views\\Fisica\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/levi/dotnet/hotel/Views/Pessoa/Create.cshtml",
+      "TargetPath": "Views\\Pessoa\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16398,6 +16413,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/levi/dotnet/hotel/Views/Pessoa/Delete.cshtml",
+      "TargetPath": "Views\\Pessoa\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/levi/dotnet/hotel/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16410,6 +16430,11 @@
     {
       "FilePath": "/home/levi/dotnet/hotel/Views/Fisica/Delete.cshtml",
       "TargetPath": "Views\\Fisica\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/levi/dotnet/hotel/Views/Pessoa/Index.cshtml",
+      "TargetPath": "Views\\Pessoa\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

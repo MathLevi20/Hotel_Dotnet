@@ -83,6 +83,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyY2Vpcm8vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/levi/dotnet/hotel/Views/Pessoa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Pessoa/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Pessoa/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Pessoa/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/levi/dotnet/hotel/Views/Pessoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/levi/dotnet/hotel/Views/ReservaHotel/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YUhvdGVsL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
